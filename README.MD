@@ -1,6 +1,6 @@
-
-
-
+http://localhost:8080/api/customers?limit=5&offset=0
+http://localhost:8080/api/customer/1
+http://localhost:8080/api/customer/1/orders
 
 
 Task 3
